@@ -1,0 +1,69 @@
+{
+  "name": "NurseQuest \u2014 Nursing Exam PYQ Bank",
+  "short_name": "NurseQuest",
+  "description": "Free nursing exam PYQ bank \u2014 NORCET, RRB, AIIMS, CHO, Staff Nurse. Practice MCQs with rationale.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060d1a",
+  "theme_color": "#060d1a",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "lang": "en-IN",
+  "categories": [
+    "education",
+    "medical"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "AI Generate Questions",
+      "short_name": "AI Generate",
+      "description": "Find real previous year MCQs on any topic",
+      "url": "./index.html#aigen",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "My Progress",
+      "short_name": "Progress",
+      "description": "View your quiz progress and accuracy",
+      "url": "./index.html#progress",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
